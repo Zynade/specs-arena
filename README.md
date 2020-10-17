@@ -85,5 +85,5 @@ There are two ways to run Specs Arena.
 
 ## License
 
-This project is created by Atharv Goel and Burhanuddin Murtaza and is available under the GNU GPv3 license.
-Please refer to COPYING.txt for more information.
+This program is available under the GNU GPLv3 license.
+Please refer to COPYING for more information.
