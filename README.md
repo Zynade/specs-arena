@@ -17,8 +17,8 @@ Specs Arena is a program used to access, view and store technical specifications
 ## __Usage__
 
 There are two ways to run Specs Arena.
-1) Run the **specs_arena.exe** executable. This is by far the most convenient option. However in some cases, Windows might flag this as malware due to the executable nature. If this is the case, you can make an exclusion for this folder in [Windows Security settings](https://support.microsoft.com/en-us/help/4028485/windows-10-add-an-exclusion-to-windows-security). Alternatively,
-
+1) Run the **specs_arena.exe** executable. This can be found in the [Releases](https://github.com/Zynade/specs-arena/releases) section. However in some cases, Windows might flag this as malware due to the executable nature. If this occurs, you can make an exclusion for this folder in [Windows Security settings](https://support.microsoft.com/en-us/help/4028485/windows-10-add-an-exclusion-to-windows-security). Alternatively,
+    
 2) Run the **specs_arena.py** file. You must install the ```PIL``` dependency for the program to be fully functional however. This can be done by opening Powershell/Terminal and typing ```py -m pip install pillow```.
 
 
